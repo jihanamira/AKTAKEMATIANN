@@ -25,7 +25,7 @@ Aplikasi ini di buat menggunakan bahasa pemograman laravel, jadi tool / software
      menambahkan sebuah data begitu pun untuk selanjutnya
  12. Masukan pada halaman data orang yang meninggal disana juga terdapat fitur kecamatan,kelurahan,
      nama almarhum/almarhumah, jenis kelamin, tgl kematian, anak ke, nik, nokk, status, gambar akta
- 14. Pada rekap data orang yang meninggal disini sudah di kelompokan antara perkecamtan, contoh misalnya
+ 13. Pada rekap data orang yang meninggal disini sudah di kelompokan antara perkecamtan, contoh misalnya
       sesorang yang meninggal pada kecamtan barat maka yang akan kita klik hanya bagian barat saja
 
 
