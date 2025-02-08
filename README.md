@@ -33,4 +33,12 @@ Aplikasi ini di buat menggunakan bahasa pemograman laravel, jadi tool / software
 1. lakukan registrasi terlebih dahulu 
 2. login, nama : jihanamira12@gmail.com, pass:jihan12345
 3. Masuk pada halaman Websitenya
- 
+
+# 
+# Contributing
+untk kontributing lakukan diskusi terlebih dahulu memberi tahu mengenai perubahan yang diinginkan
+melalui issue, email :jihanamira531@gmail.com
+
+# tentang Aplikasi 
+tentang aplikasi adalah aplikasi yang pertama saya upload di gubhub, sambil mencoba meraba- raba berbagai fitur 
+untuk itu saya menggunakan projek lama yang pastinya  banya kekurangan  dan masalah  maka dari itu silahkan kirimankan issue, komanetar, atau kontribusi agar saya dapat lebih paham dalam pengguna github
